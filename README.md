@@ -1,4 +1,4 @@
-# E-Commerce Store — Dockerized Node.js Microservices on AWS
+# E-Commerce Store- Dockerized Node.js Microservices on AWS
 
 [![Node.js](https://img.shields.io/badge/Node.js-20.x-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://react.dev/)
